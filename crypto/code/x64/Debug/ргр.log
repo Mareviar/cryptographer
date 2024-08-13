@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Huawei_\source\repos\ргр\ргр\Source.cpp(65,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Huawei_\source\repos\ргр\ргр\Source.cpp(95,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Huawei_\source\repos\ргр\ргр\Source.cpp(149,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Huawei_\source\repos\ргр\ргр\Source.cpp(176,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Huawei_\source\repos\ргр\ргр\Source.cpp(260,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ргр.cpp
+  Создание кода...
+  ргр.vcxproj -> C:\Users\Huawei_\source\repos\ргр\x64\Debug\ргр.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
